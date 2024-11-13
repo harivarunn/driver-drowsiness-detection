@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # Driver-s-Drowsiness-Detection-using-CNN 
 
 Drowsiness is one of the leading causes of the road accidents.Main objective of this project is to continuously monitor the eye state of the driver and sound an alarm if the drowsiness levels exceeds the threshold limit 
@@ -9,3 +10,6 @@ It consists of 84,898 images ,which are classified based on 6 variables such as 
 Technologies : Pandas, Numpy, Matplotlib, Scikit-Learn, Haar Cascade Classifier,CNN, Resnet50
 
 
+=======
+# driver-drowsiness-detection
+>>>>>>> 08c7920bc83b61e9f1ef6fad21f11a05f673984b
